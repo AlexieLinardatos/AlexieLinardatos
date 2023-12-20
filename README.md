@@ -1,7 +1,7 @@
 <h1 align="center"><b> Hello, I'm Alexie </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<h4>Hello, I'm Alexie, a recent computer science graduate eager to embark on a rewarding journey in the tech industry </h4>
+<h4>Hello, I'm Alexie, a recent computer science graduate from OntarioTech University and I am eager to embark on a rewarding journey in the tech industry </h4>
                                                                                                                                      
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web :computer: Development
