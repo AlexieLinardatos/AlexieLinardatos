@@ -48,7 +48,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Tools</h2></summary>
   </ul>
-</div>
+</div> 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
