@@ -1,17 +1,17 @@
 <h1 align="center"><b> Hello, I'm Alexie </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<h4>Hello, I'm Alexie, a recent computer science graduate from OntarioTech University and I am eager to embark on a rewarding journey in the tech industry </h4>
+<h4>Hello, I'm Alexie, a recent computer science graduate from OntarioTech University. I am currently doing a masters in artificial intelligence at OntarioTech University </h4>
                                                                                                                                      
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web :computer: Development
+* Learning Stable Diffusion Models and :computer: Development
 * Learning some Flutter :calling:
 
-### 🌱 Challenges that I’m currently challenging myself:
-* Learn to code :man_technologist: 1-2 hours a day with no distraction 
-* Read :newspaper: Dev and UI articles daily 
-* Workout :weight_lifting_man: 5 days a week 
-* Avoid spending too much time on Youtube Entertainment :skull_and_crossbones:                                                                                                            
+# Master's Student Goals
+- **Research 📚** Work on thesis or project tasks daily.  
+- **Learn 🧠** Explore one new topic or paper weekly in your field.  
+- **Network 🤝** Attend one academic event or connect with peers monthly.  
+- **Self-Care 🧘** Take time to recharge with hobbies or mindfulness activities.                                                                                                         
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,androidstudio,firebase,atom,gradle " />
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,androidstudio,firebase,atom,gradle,unity" />
   </a>
 </p>
 
