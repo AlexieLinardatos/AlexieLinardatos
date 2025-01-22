@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,js,cpp,c,dart, kotlin,mysql,css" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,js,cpp,c,dart, kotlin,mysql,css,c#" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,androidstudio,firebase,atom,gradle,unity" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,androidstudio,firebase,atom,gradle,unity,maven,pytorch" />
   </a>
 </p>
 
