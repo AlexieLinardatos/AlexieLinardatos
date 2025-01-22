@@ -3,9 +3,10 @@
 
 <h4>Hello, I'm Alexie, a recent computer science graduate from OntarioTech University. I am currently doing a masters in artificial intelligence at OntarioTech University </h4>
                                                                                                                                      
-### 💼  Things that I'm currently working on: 
-* Learning Stable Diffusion Models and :computer: Development
-* Learning some Flutter :calling:
+### 💼 Things that I'm currently working on:
+* Learning Stable Diffusion Models :computer:    
+* Exploring Multimodal AI Techniques :art: AI/ML  
+* Preparing for Academic Paper Submissions :notebook: Writing 
 
 # Master's Student Goals
 - **Research 📚** Work on thesis or project tasks daily.  
